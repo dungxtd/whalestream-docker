@@ -1,0 +1,9 @@
+**/.DS_Store
+downloads
+minio
+postgresql
+radarr
+sonarr
+subtitler/config/log
+subtitler/config/cache
+transmission
